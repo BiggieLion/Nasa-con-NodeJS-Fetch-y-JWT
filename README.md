@@ -3,6 +3,6 @@ La siguiente aplicación es el consumo de las APIs de la NASA, esta aplicación 
 Las tecnologias utilizadas para esta app son:
 * NodeJS
 * Express
-* fetch-node
+* node fetch v2
 * JWT.
 
