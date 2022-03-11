@@ -1,0 +1,18 @@
+{
+  "name": "api-nasa",
+  "version": "1.0.0",
+  "description": "Consumo de las APIs de la NASA a travez de NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Heber Jair Leon Ramirez",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "jsonwebtoken": "^8.5.1",
+    "node-fetch": "^2.6.7"
+  }
+}
